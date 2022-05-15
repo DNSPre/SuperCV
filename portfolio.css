@@ -1,0 +1,42 @@
+body{
+  background-color: #F2F2F2;
+  font-family: 'Lato', sans-serif;
+  padding: 30px 0;
+}
+
+.uil:before{
+  font-size: 30px !important;
+}
+
+.white-card{
+  padding: 15px;
+  background-color: white;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-weight: 900;
+}
+
+img{
+  border-radius: 10px;
+}
+
+.date, a{
+  color: #3F87E2;
+}
+
+.progress{
+  margin-bottom: 10px;
+  margin-top: 10px;
+  height: 10px;
+}
+.progress-bar{
+  height: 10px;
+  color: #3F87E2;
+}
+
+.skill{
+  margin-bottom: -8px;
+}
